@@ -1,4 +1,1 @@
-Morse	KEYWORD1
-begin	KEYWORD2
-dash	KEYWORD2
-dot	KEYWORD2
+Encoder	KEYWORD1
